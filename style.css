@@ -1,0 +1,31 @@
+.bg-cream{
+    background: #f8ebdc;
+}
+.bg-red{
+    background: #ff0000;
+}
+.text-red{
+    color: #ff0000;
+}
+.text-brown{
+    color: #58200f;
+}
+.text-cream{
+    color: #f8ebdc;
+}
+.h-text-sizing{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 48px;
+}
+.bg-brown{
+    background: #58200f;
+}
+.no-border{
+    border: 0px;
+}
+.border-b{
+    border: 1px solid #000000;
+}
+.border-red{
+    border: 1px solid #ff0000;
+}
